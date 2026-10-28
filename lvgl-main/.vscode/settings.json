@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lv_port_disp_template.h": "c",
+        "string": "c",
+        "pthread.h": "c",
+        "lv_demos.h": "c",
+        "signal.h": "c",
+        "stdbool.h": "c"
+    }
+}
